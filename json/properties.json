@@ -1,0 +1,359 @@
+{
+  "propertiess": [
+    {
+      "title": "Elite Mansion Furniture",
+      "description": "Luxurious estate furniture for sale at an unbeatable price.",
+      "price": 550000,
+      "address": {
+        "state": "Elegant State",
+        "city": "Luxury City",
+        "town": "Opulent Town",
+        "description": "Downtown Avenue"
+      }
+    },
+    {
+      "title": "Regal Residency Chairs",
+      "description": "Charm and elegance define these estate chairs up for grabs.",
+      "price": 520000,
+      "address": {
+        "state": "Royal State",
+        "city": "Majestic City",
+        "town": "Grand Town",
+        "description": "Royal Street"
+      }
+    },
+    {
+      "title": "Supreme Seat Collection",
+      "description": "Discover the grandeur of these estate chairs in an exclusive sale.",
+      "price": 530000,
+      "address": {
+        "state": "Premium State",
+        "city": "Supreme City",
+        "town": "Opulence Town",
+        "description": "Exquisite Road"
+      }
+    },
+    {
+      "title": "Monarch Estate Seating",
+      "description": "Experience the throne-like comfort of these estate chairs now on sale.",
+      "price": 510000,
+      "address": {
+        "state": "Imperial State",
+        "city": "Sovereign City",
+        "town": "Noble Town",
+        "description": "Crown Lane"
+      }
+    },
+    {
+      "title": "Premium Palace Chairs",
+      "description": "Upgrade your living space with these premium estate chairs at a discounted price.",
+      "price": 540000,
+      "address": {
+        "state": "Luxury State",
+        "city": "Palatial City",
+        "town": "Elite Town",
+        "description": "Palace Avenue"
+      }
+    },
+    {
+      "title": "Majestic Manor Seating",
+      "description": "Bring majesty to your home with these manor estate chairs available for purchase.",
+      "price": 560000,
+      "address": {
+        "state": "Grand State",
+        "city": "Majestic City",
+        "town": "Noble Town",
+        "description": "Manor Lane"
+      }
+    },
+    {
+      "title": "Imperial Estate Chairs",
+      "description": "Transform your space with the regal touch of these estate chairs on sale.",
+      "price": 570000,
+      "address": {
+        "state": "Royal State",
+        "city": "Imperial City",
+        "town": "Prestige Town",
+        "description": "Regal Road"
+      }
+    },
+    {
+      "title": "Opulent Living Chairs",
+      "description": "Experience opulence with these estate chairs designed for luxurious living.",
+      "price": 580000,
+      "address": {
+        "state": "Elite State",
+        "city": "Opulent City",
+        "town": "Majestic Town",
+        "description": "Luxe Lane"
+      }
+    },
+    {
+      "title": "Noble Estate Seating",
+      "description": "Enhance your space with the noble touch of these estate chairs available for sale.",
+      "price": 590000,
+      "address": {
+        "state": "Noble State",
+        "city": "Regal City",
+        "town": "Elegant Town",
+        "description": "Noble Avenue"
+      }
+    },
+    {
+      "title": "Exclusive Manor Chairs",
+      "description": "Elevate your home with these exclusive manor estate chairs at a special price.",
+      "price": 600000,
+      "address": {
+        "state": "Exclusive State",
+        "city": "Manor City",
+        "town": "Estate Town",
+        "description": "Exclusive Street"
+      }
+    },
+    {
+      "title": "Regency Residence Seating",
+      "description": "Immerse yourself in the regency of these estate chairs now available for purchase.",
+      "price": 610000,
+      "address": {
+        "state": "Regal State",
+        "city": "Regency City",
+        "town": "Estate Town",
+        "description": "Regency Road"
+      }
+    },
+    {
+      "title": "Elite Enclave Chairs",
+      "description": "Create an elite enclave in your home with these estate chairs for sale.",
+      "price": 620000,
+      "address": {
+        "state": "Elite State",
+        "city": "Enclave City",
+        "town": "Summit Town",
+        "description": "Elite Enclave Lane"
+      }
+    },
+    {
+      "title": "Grandeur Manor Seating",
+      "description": "Experience grandeur with these manor estate chairs, now available at a discounted rate.",
+      "price": 630000,
+      "address": {
+        "state": "Grandeur State",
+        "city": "Manor City",
+        "town": "Grandeur Town",
+        "description": "Grandeur Lane"
+      }
+    },
+    {
+      "title": "Luxury Lifestyle Chairs",
+      "description": "Embrace a luxurious lifestyle with these estate chairs designed for comfort and style.",
+      "price": 640000,
+      "address": {
+        "state": "Luxury State",
+        "city": "Lifestyle City",
+        "town": "Elegant Town",
+        "description": "Lifestyle Avenue"
+      }
+    },
+
+    {
+      "title": "Prime Urban Residence",
+      "description": "A prime property in the heart of the city, offering modern living at its best.",
+      "price": 7500000,
+      "address": {
+        "state": "Metropolitan State",
+        "city": "City Center",
+        "town": "Central Avenue"
+      }
+    },
+    {
+      "title": "Luxury Penthouse Suite",
+      "description": "Experience luxury at its peak with this exquisite penthouse suite in a prestigious location.",
+      "price": 12000000,
+      "address": {
+        "state": "Exclusive State",
+        "city": "Skyline City",
+        "town": "Penthouse Place"
+      }
+    },
+    {
+      "title": "Waterfront Paradise Villa",
+      "description": "Own a piece of paradise with this stunning waterfront villa offering breathtaking views.",
+      "price": 18000000,
+      "address": {
+        "state": "Seaside State",
+        "city": "Harbor City",
+        "town": "Waterfront Drive"
+      }
+    },
+    {
+      "title": "Mountain View Retreat",
+      "description": "Escape to this mountain view retreat, a perfect blend of tranquility and natural beauty.",
+      "price": 10000000,
+      "address": {
+        "state": "Scenic State",
+        "city": "Mountain Town",
+        "town": "Serene Street"
+      }
+    },
+    {
+      "title": "Downtown Loft Living",
+      "description": "Live in style in this chic downtown loft, surrounded by the energy of the city.",
+      "price": 9000000,
+      "address": {
+        "state": "Urban State",
+        "city": "Downtown City",
+        "town": "Loft Lane"
+      }
+    },
+    {
+      "title": "Golf Course Estate",
+      "description": "Own a piece of luxury with this elegant estate situated on a prestigious golf course.",
+      "price": 15000000,
+      "address": {
+        "state": "Elite State",
+        "city": "Golf City",
+        "town": "Fairway Avenue"
+      }
+    },
+    {
+      "title": "Countryside Manor",
+      "description": "Experience the charm of the countryside with this picturesque manor surrounded by nature.",
+      "price": 12000000,
+      "address": {
+        "state": "Rural State",
+        "city": "Meadow Town",
+        "town": "Tranquil Road"
+      }
+    },
+    {
+      "title": "Historic Landmark Residence",
+      "description": "Own a piece of history with this meticulously restored landmark residence.",
+      "price": 22000000,
+      "address": {
+        "state": "Historic State",
+        "city": "Heritage City",
+        "town": "Landmark Lane"
+      }
+    },
+    {
+      "title": "Beachfront Paradise Home",
+      "description": "Live in luxury by the beach with this beachfront paradise home offering coastal living.",
+      "price": 20000000,
+      "address": {
+        "state": "Coastal State",
+        "city": "Seashore City",
+        "town": "Beachfront Drive"
+      }
+    },
+    {
+      "title": "Cityscape View Condo",
+      "description": "Enjoy stunning cityscape views from this high-rise condo in a vibrant urban setting.",
+      "price": 13000000,
+      "address": {
+        "state": "Urban State",
+        "city": "Skyline City",
+        "town": "Cityscape Avenue"
+      }
+    },
+    {
+      "title": "Mountain Retreat Cabin",
+      "description": "Escape to the mountains with this cozy retreat cabin offering a peaceful getaway.",
+      "price": 8000000,
+      "address": {
+        "state": "Mountain State",
+        "city": "Alpine Town",
+        "town": "Retreat Road"
+      }
+    },
+    {
+      "title": "Riverside Mansion",
+      "description": "Own an exquisite riverside mansion with expansive grounds and breathtaking views.",
+      "price": 25000000,
+      "address": {
+        "state": "Waterfront State",
+        "city": "Riverfront City",
+        "town": "Mansion Lane"
+      }
+    },
+    {
+      "title": "Suburban Dream Home",
+      "description": "Make dreams come true with this suburban home offering comfort and tranquility.",
+      "price": 11000000,
+      "address": {
+        "state": "Suburban State",
+        "city": "Dream City",
+        "town": "Dream Home Avenue"
+      }
+    },
+    {
+      "title": "Equestrian Estate",
+      "description": "For horse enthusiasts, this equestrian estate offers a blend of luxury and equine amenities.",
+      "price": 18000000,
+      "address": {
+        "state": "Equestrian State",
+        "city": "Horse Haven",
+        "town": "Stable Street"
+      }
+    },
+    {
+      "title": "Gated Community Residence",
+      "description": "Experience security and exclusivity in this gated community residence with modern amenities.",
+      "price": 16000000,
+      "address": {
+        "state": "Secure State",
+        "city": "Gated City",
+        "town": "Community Lane"
+      }
+    },
+    {
+      "title": "Lakefront Living Haven",
+      "description": "Live by the lake in this charming property offering serene lakefront living.",
+      "price": 14000000,
+      "address": {
+        "state": "Lakeside State",
+        "city": "Lakeview City",
+        "town": "Lakefront Drive"
+      }
+    },
+    {
+      "title": "Ski-In/Ski-Out Chalet",
+      "description": "For winter enthusiasts, this ski-in/ski-out chalet is the epitome of mountain luxury.",
+      "price": 19000000,
+      "address": {
+        "state": "Mountain State",
+        "city": "Ski Resort Town",
+        "town": "Ski Lane"
+      }
+    },
+    {
+      "title": "Sunset View Villa",
+      "description": "Enjoy breathtaking sunset views from this villa perched on a hillside.",
+      "price": 17000000,
+      "address": {
+        "state": "Hillside State",
+        "city": "Sunset City",
+        "town": "Sunset View Road"
+      }
+    },
+    {
+      "title": "Historic District Home",
+      "description": "Live in a piece of history with this charming home in the heart of the historic district.",
+      "price": 15000000,
+      "address": {
+        "state": "Historic State",
+        "city": "Heritage City",
+        "town": "Historic District Lane"
+      }
+    },
+    {
+      "title": "Mediterranean Style Villa",
+      "description": "Experience the allure of the Mediterranean with this stunning villa designed for luxury living.",
+      "price": 20000000,
+      "address": {
+        "state": "Mediterranean State",
+        "city": "Coastal City",
+        "town": "Mediterranean Avenue"
+      }
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "houses": [
+    {
+      "title": "Lagos Luxury Villa",
+      "description": "Indulge in luxury living in this exquisite villa in the heart of Lagos.",
+      "price": 12000000,
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Lagos",
+        "city": "Victoria Island",
+        "town": "Oceanfront Avenue"
+      }
+    },
+    {
+      "title": "Abuja Serenity House",
+      "description": "Experience serenity in the capital city with this spacious residence in Abuja.",
+      "price": 11000000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 2,
+        "balcony": false
+      },
+      "address": {
+        "state": "Abuja",
+        "city": "Central District",
+        "town": "Peaceful Lane"
+      }
+    },
+
+    {
+      "title": "Port Harcourt Retreat",
+      "description": "Escape to this peaceful retreat in Port Harcourt for a perfect family getaway.",
+      "price": 13000000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Rivers",
+        "city": "Port Harcourt",
+        "town": "Tranquil Terrace"
+      }
+    },
+    {
+      "title": "Kano Modern Oasis",
+      "description": "Discover modern living in this Kano oasis with all the comforts you need.",
+      "price": 12500000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Kano",
+        "city": "Metropolitan Area",
+        "town": "Urban Street"
+      }
+    },
+    {
+      "title": "Ibadan Family Haven",
+      "description": "A spacious and inviting home designed for family reunions in Ibadan.",
+      "price": 11500000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": false
+      },
+      "address": {
+        "state": "Oyo",
+        "city": "Ibadan",
+        "town": "Family Avenue"
+      }
+    },
+    {
+      "title": "Kaduna Cozy Residence",
+      "description": "Cozy up in this charming residence in the heart of Kaduna.",
+      "price": 13500000,
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": true
+      },
+      "address": {
+        "state": "Kaduna",
+        "city": "City Center",
+        "town": "Comfort Lane"
+      }
+    },
+    {
+      "title": "Ogun Heights Villa",
+      "description": "Elevate your living experience in this Ogun heights villa with breathtaking views.",
+      "price": 14000000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Ogun",
+        "city": "Abeokuta",
+        "town": "Summit Street"
+      }
+    },
+    {
+      "title": "Ekiti Blissful Residence",
+      "description": "Find bliss in this Ekiti residence with modern amenities for a comfortable lifestyle.",
+      "price": 14500000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Ekiti",
+        "city": "Ado-Ekiti",
+        "town": "Joyful Road"
+      }
+    },
+    {
+      "title": "Delta Dream House",
+      "description": "Live the dream in this Delta residence boasting elegance and comfort.",
+      "price": 16000000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Delta",
+        "city": "Warri",
+        "town": "Dreamy Drive"
+      }
+    },
+    {
+      "title": "Anambra Sunshine Villa",
+      "description": "Bask in the warmth of sunshine in this delightful Anambra villa for a perfect family getaway.",
+      "price": 15000000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Anambra",
+        "city": "Awka",
+        "town": "Sunny Street"
+      }
+    },
+    {
+      "title": "Ekiti Valley Retreat",
+      "description": "A serene retreat in the heart of Ekiti, perfect for family gatherings.",
+      "price": 12500000,
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Ekiti",
+        "city": "Ado-Ekiti",
+        "town": "Peaceful Place"
+      }
+    },
+    {
+      "title": "Delta Riverside Residence",
+      "description": "Enjoy riverside living in this Delta residence with breathtaking water views.",
+      "price": 15500000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Delta",
+        "city": "Asaba",
+        "town": "Riverside Road"
+      }
+    },
+    {
+      "title": "Kaduna Oasis Haven",
+      "description": "A peaceful oasis in the heart of Kaduna, perfect for family retreats.",
+      "price": 12000000,
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": false
+      },
+      "address": {
+        "state": "Kaduna",
+        "city": "Zaria",
+        "town": "Oasis Lane"
+      }
+    },
+    {
+      "title": "Ogun Golden Residence",
+      "description": "Experience the golden touch of luxury in this Ogun residence.",
+      "price": 17000000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Ogun",
+        "city": "Abeokuta",
+        "town": "Golden Street"
+      }
+    },
+    {
+      "title": "Anambra Elegant Villa",
+      "description": "Indulge in elegance and sophistication in this Anambra villa.",
+      "price": 18000000,
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 5,
+        "balcony": true
+      },
+      "address": {
+        "state": "Anambra",
+        "city": "Awka",
+        "town": "Elegant Avenue"
+      }
+    },
+    {
+      "title": "Lagos Lagoon Retreat",
+      "description": "Escape to a retreat with stunning lagoon views in the heart of Lagos.",
+      "price": 19000000,
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Lagos",
+        "city": "Ikoyi",
+        "town": "Lagoon Drive"
+      }
+    },
+    {
+      "title": "Abuja Central Oasis",
+      "description": "Find your oasis in the central district of Abuja with this luxurious residence.",
+      "price": 20000000,
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Abuja",
+        "city": "Central District",
+        "town": "Central Oasis Street"
+      }
+    },
+    {
+      "title": "Port Harcourt Panorama House",
+      "description": "Enjoy panoramic views in this Port Harcourt residence with grand interiors.",
+      "price": 16500000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Rivers",
+        "city": "Port Harcourt",
+        "town": "Panorama Place"
+      }
+    },
+    {
+      "title": "Kano Urban Retreat",
+      "description": "Escape to this urban retreat in Kano for a perfect blend of comfort and style.",
+      "price": 14000000,
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Kano",
+        "city": "Metropolitan Area",
+        "town": "Urban Escape Lane"
+      }
+    },
+    {
+      "title": "Ibadan Hillside Residence",
+      "description": "Live on the hills in this Ibadan residence with breathtaking hillside views.",
+      "price": 17500000,
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Oyo",
+        "city": "Ibadan",
+        "town": "Hillside Haven"
+      }
+    },
+    {
+      "title": "Cozy Retreat in A",
+      "description": "A charming and comfortable house perfect for family gatherings.",
+      "price": 9500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 2,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+
+    {
+      "title": "Modern Enugu Oasis",
+      "description": "Experience luxury and modern living in this Enugu residence.",
+      "price": 15000000,
+
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": false
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Family Haven in Enugu",
+      "description": "A spacious and inviting home designed for family reunions and gatherings.",
+      "price": 11000000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Serenity House",
+      "description": "Escape to this peaceful and serene house in the heart of Enugu.",
+      "price": 13500000,
+
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": false
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Blissful Residence",
+      "description": "Discover the bliss of living in this Enugu residence with modern amenities.",
+      "price": 12500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Heights Retreat",
+      "description": "Experience breathtaking views and comfort in this elevated Enugu residence.",
+      "price": 17000000,
+
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Luxury Villa",
+      "description": "Indulge in the luxurious lifestyle of this Enugu villa with state-of-the-art facilities.",
+      "price": 20000000,
+
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 5,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Harmony House",
+      "description": "Find harmony and tranquility in this Enugu residence designed for peaceful living.",
+      "price": 11500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": false
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Dream House",
+      "description": "Live the dream in this Enugu residence boasting elegance and comfort.",
+      "price": 16000000,
+
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Sunshine Villa",
+      "description": "Bask in the warmth of sunshine in this delightful Enugu villa for a perfect family getaway.",
+      "price": 14500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Gem Residence",
+      "description": "Discover a gem in the heart of Enugu with this modern and stylish residence.",
+      "price": 13000000,
+
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Tranquil Enugu Retreat",
+      "description": "Escape the hustle and bustle in this tranquil Enugu retreat with scenic views.",
+      "price": 15500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": false
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Gem Residence",
+      "description": "Discover a gem in the heart of Enugu with this modern and stylish residence.",
+      "price": 13000000,
+
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Harmony Villa",
+      "description": "Experience harmonious living in this Enugu villa designed for comfort and joy.",
+      "price": 14500000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Bliss Residence",
+      "description": "Indulge in blissful living in this modern Enugu residence with all the amenities.",
+      "price": 17000000,
+
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Serene Villa",
+      "description": "Experience serenity in this Enugu villa designed for a peaceful lifestyle.",
+      "price": 16000000,
+
+      "features": {
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "balcony": false
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Majesty Residence",
+      "description": "Live like royalty in this majestic Enugu residence with grand interiors.",
+      "price": 19000000,
+
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 5,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Summit House",
+      "description": "Reach new heights in luxury living with this Enugu summit house.",
+      "price": 20000000,
+
+      "features": {
+        "number_of_bedrooms": 6,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Haven Retreat",
+      "description": "Escape to a haven of comfort and relaxation in this Enugu retreat.",
+      "price": 13500000,
+
+      "features": {
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    },
+    {
+      "title": "Enugu Riverside Villa",
+      "description": "Enjoy riverside living in this Enugu villa with breathtaking water views.",
+      "price": 17500000,
+
+      "features": {
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "balcony": true
+      },
+      "address": {
+        "state": "Enugu state",
+        "city": "Enugu city",
+        "town": "Enugu town"
+      }
+    }
+  ]
+}
